@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+curl-cffi
+wasmtime
+python-multipart
