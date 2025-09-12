@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+curl-cffi[brotli]
+wasmtime
+orjson
