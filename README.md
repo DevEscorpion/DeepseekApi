@@ -4,8 +4,6 @@
 
 A high-performance API proxy for DeepSeek's chat service with full OpenAI compatibility. Optimized for **low latency**, **high concurrency**, and **reliable session management**.
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Async+I/O+%7C+WASM+Preload+%7C+Session+Pooling+%7C+Rate+Limiting)
-
 ## 🚀 Features
 
 - ✅ **OpenAI API Compatibility**: Fully supports `/v1/chat/completions` and model listing endpoints
